@@ -1,0 +1,7 @@
+GTAGS
+GPATH
+GRTAGS
+*.ko
+*.o
+*.cmd
+*.tmp*
